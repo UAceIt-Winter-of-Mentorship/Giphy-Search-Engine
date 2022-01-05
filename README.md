@@ -29,7 +29,7 @@ git clone "url you just copied"
 where "url you just copied" (without the quotation marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
 For example:
 ```
-git clone https://github.com/UAceIt-Winter-of-Mentorship/Giphy-Search-Engine.git
+git clone https://github.com/your_username/Giphy-Search-Engine.git
 ```
 
 # Create a branch ⚓
