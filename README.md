@@ -9,7 +9,7 @@
 
 # Contributors
 - Shikha Lodhi
-- 
+- Aadya Mittal
 - 
 
 # How to Start?
