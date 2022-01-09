@@ -11,6 +11,7 @@
 - Shikha Lodhi
 - Aadya Mittal
 - Arnab Ghosh
+- Roshni Sahoo
 
 # How to Start?
 If you don't have git on your machine [Install it](https://docs.github.com/en/get-started/quickstart/set-up-git)
