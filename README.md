@@ -18,6 +18,7 @@
 - Ashna Ahmad
 - Aniket Kumar
 - Gargi Chakraverty
+- Mohit Srivastava
 
 
 # How to Start?
