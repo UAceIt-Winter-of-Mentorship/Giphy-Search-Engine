@@ -17,7 +17,7 @@
 - Roshni Sahoo
 - Ashna Ahmad
 - Aniket Kumar
-
+- Mohit Srivastava
 
 # How to Start?
 
