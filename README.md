@@ -1,4 +1,4 @@
-# Giphy-Search-Engine
+﻿# Giphy-Search-Engine
 
 # Points to keep in mind while contributing
 
@@ -17,6 +17,7 @@
 - Roshni Sahoo
 - Ashna Ahmad
 - Aniket Kumar
+- Gargi Chakraverty
 
 
 # How to Start?
