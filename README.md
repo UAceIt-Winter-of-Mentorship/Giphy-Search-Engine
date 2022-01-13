@@ -19,6 +19,7 @@
 - Aniket Kumar
 - Gargi Chakraverty
 - Mohit Srivastava
+- Divya Chahal
 
 
 # How to Start?
