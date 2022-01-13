@@ -19,6 +19,7 @@
 - Aniket Kumar
 - Gargi Chakraverty
 - Mohit Srivastava
+- Ruchi Pakhle
 
 
 # How to Start?
